@@ -1,4 +1,7 @@
 <?php
+/**
+ * Get gmail history id based on messages
+ */
 
 class GmailHistoryID {
 

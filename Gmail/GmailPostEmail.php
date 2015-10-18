@@ -1,4 +1,7 @@
 <?php
+/**
+ * Post data to Gmail API
+ */
 class GmailPostEmail
 {
     

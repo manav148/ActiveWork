@@ -1,4 +1,7 @@
 <?php
+/**
+ * Gmail Imap API
+ */
 class GmailImap{
 
     function __construct($username = null, $password = null, $spam = false) {

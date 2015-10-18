@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+'''
+Execute commands on remote machines
+'''
 import commands
 import sys, os
 from colorama import init, Fore
