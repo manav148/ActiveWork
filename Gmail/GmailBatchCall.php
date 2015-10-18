@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * Make Batch calls to Gmail API's
+ */
 class GmailBatchCall 
 {
     
